@@ -1,0 +1,25 @@
+{
+  "name": "parcel-plugin-ignore-assets",
+  "description": "A parcel plugin to ignore url dependencies",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "Nik Rowell (https://www.nikrowell.com/)",
+  "repository": "nikrowell/parcel-plugin-ignore-assets",
+  "main": "index.js",
+  "keywords": [
+    "parcel",
+    "plugin",
+    "bundler",
+    "ignore",
+    "assets"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo 'You should be unit testing'"
+  },
+  "peerDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
